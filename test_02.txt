@@ -1,0 +1,45 @@
+1. New file.
+2. Create figure.
+3. Delete figure.
+4. Save file.
+5. Load file.
+6. Print figures.
+7. Cancel last action.
+0. Exit.
+Choose option: 1
+Choose option: 2
+What figure do you want to create?
+        1. Pentagon.
+        2. Hexagon.
+        3. Octogon.
+2
+Enter position of new figure: 2
+ERROR
+There is no such position in file.
+Choose option: 2
+What figure do you want to create?
+        1. Pentagon.
+        2. Hexagon.
+        3. Octogon.
+3
+Enter position of new figure: 1
+Enter center coordinates and radius: 5
+5
+5
+Choose option: 4
+Enter file name: 1
+ERROR
+No such file.
+Choose option: 4
+Enter file name: aaa
+ERROR
+No such file.
+Choose option: 3
+Enter position of element to delete: 1
+Choose option: 5
+Enter file name: 1
+ERROR
+No such file.
+Choose option: 6
+File is empty.
+Choose option:

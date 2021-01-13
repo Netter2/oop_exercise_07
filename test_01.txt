@@ -1,0 +1,179 @@
+
+PS C:\Users\Кирилл\Desktop\ООП_7> .\a.exe
+1. New file.
+2. Create figure.
+3. Delete figure.
+4. Save file.
+5. Load file.
+6. Print figures.
+7. Cancel last action.
+0. Exit.
+Choose option: 1
+Choose option: 2 
+What figure do you want to create?
+        1. Pentagon.
+        2. Hexagon.
+        3. Octogon.
+1
+Enter position of new figure: 1
+Enter center coordinates and radius: 1 1 1
+Choose option: 2
+What figure do you want to create?
+        1. Pentagon.
+        2. Hexagon.
+        3. Octogon.
+2
+Enter position of new figure: 2
+Enter center coordinates and radius: 2 2 2
+Choose option: 6
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (2,4)
+B = (3.73205,3)
+C = (3.73205,1)
+D = (2,0)
+E = (0.267949,1)
+F = (0.267949,3)
+----------
+Choose option: 2
+What figure do you want to create?
+        1. Pentagon.
+        2. Hexagon.
+        3. Octogon.
+3
+Enter position of new figure: 2
+Enter center coordinates and radius: 3 3 3
+Choose option: 6
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132)
+----------
+----------
+A = (2,4)
+B = (3.73205,3)
+C = (3.73205,1)
+D = (2,0)
+E = (0.267949,1)
+F = (0.267949,3)
+----------
+Choose option: 4
+Enter file name: aaa
+Successfuly saved.
+Choose option: 1
+Choose option: 6
+File is empty.
+Choose option: 5
+Enter file name: aaa
+Successfuly loaded.
+Choose option: 6
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132)
+----------
+----------
+A = (2,4)
+B = (3.73205,3)
+C = (3.73205,1)
+D = (2,0)
+E = (0.267949,1)
+F = (0.267949,3)
+----------
+Choose option: 2
+What figure do you want to create?
+        1. Pentagon.
+        2. Hexagon.
+        3. Octogon.
+1
+Enter position of new figure: 1
+Enter center coordinates and radius: 1 1 1
+Choose option: 3
+Enter position of element to delete: 1
+Choose option: 3
+Enter position of element to delete: 1
+Choose option: 6
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132)
+----------
+----------
+A = (2,4)
+B = (3.73205,3)
+C = (3.73205,1)
+D = (2,0)
+E = (0.267949,1)
+F = (0.267949,3)
+----------
+Choose option: 7
+Choose option: 7
+Choose option: 6
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132) 
+----------
+----------
+A = (2,4)
+B = (3.73205,3)
+C = (3.73205,1)
+D = (2,0)
+E = (0.267949,1)
+F = (0.267949,3)
+----------
+Choose option: 0
